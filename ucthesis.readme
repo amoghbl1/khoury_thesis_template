@@ -1,3 +1,9 @@
+********************************************************************************
+UC THESIS CLASS DETAILS -- INFO NOT UP TO DATE.
+KHOURY README FOUND IN README.md
+********************************************************************************
+
+
 This is the README file for the UCTHESIS class for LaTeX.  It
 corresponds to version 3.1 of the UCTHESIS class (14 July 2001).
 
@@ -117,7 +123,7 @@ slick.  The format of the front matter is specified quite explicitly
 in the document "Guidelines for Submitting a Doctoral Dissertation or
 Master's Thesis" distributed by the UC Berkeley Graduate Division.
 The current version of the class is based on the 2001 version of
-this document.  
+this document.
 
 A complete example of the use of the front matter commands can be
 found in the sample dissertation distributed with the class.
@@ -187,7 +193,7 @@ handled properly.  Within this frontmatter environment, you put the
 environments and commands for the rest of the front matter.  There are
 environments for "dedication" and "acknowledgements" and the standard
 LaTeX commands for producing \tableofcontents, \listoffigures, and
-\listoftables.  
+\listoftables.
 
 The standard LaTeX commands are well documented in the LaTeX manual.
 You will probably have to hand edit the .lof (list of figures) and
