@@ -8,6 +8,7 @@
 %                01/25/2012, A. Agarwal  adapted for Master Thesis at Northeastern University
 %                08/20/2013  G. Schirner some cleanup (author/title/degree ref)
 %                10/30/2013  G. Schirner simplify MS / PHD switch, up to 6 members
+%				  02/24/2023  A. Pradeep  adapted for proposals at Khoury College
 
 %%% ====================================================================
 %%%  @LaTeX-class-file{
